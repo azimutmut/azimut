@@ -1,0 +1,46 @@
+.green{
+    /* border: 5px lightgreen solid; */
+    border: white 10px;
+    border-style:solid;
+    border-width:thick;
+    background-color: rgb(255, 255, 255);
+    margin: 0 10% 0 10%;
+  
+}
+
+.red{
+    background-color: #A8F0F0;
+    
+}
+
+.orange{
+   font-size: 14px;
+}
+
+.purple{
+    border: 2px;
+    border-bottom:dashed;
+
+}
+.blue{
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin:  10px 0 0 0 ;
+   
+	overflow:hidden
+}
+body{
+    background-image: url(images/wallpaper.jpg)
+}
+
+
+
+.image1{
+    float:right; 
+	
+}
+
+.left{
+    text-align: right;
+}
