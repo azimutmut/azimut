@@ -27,6 +27,7 @@
     background-color: #E8FBFB;
     padding: 5px;
     margin:  10px 0 0 0 ;
+    
    
 	overflow:hidden
 }
@@ -43,4 +44,17 @@ body{
 
 .left{
     text-align: right;
+}
+
+.friends{
+    float: left;
+    border: 4px rgb(132, 199, 173) solid;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(172, 255, 248);
+}
+.all{
+    position: relative;
+    margin: auto;
+    overflow: auto;
 }
